@@ -1,0 +1,13 @@
+{
+  "name": "gimit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "googleapis": "^50.0.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "urllib": "^2.34.2"
+  }
+}
